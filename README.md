@@ -1,2 +1,2 @@
 # datasciencecoursera
-Test repository for Coursera's Data Science course.
+Test repository for The Data Scientist's Toolbox course on Coursera.
